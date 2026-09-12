@@ -1,12 +1,12 @@
 ﻿{
-    "updatedAt":  "2026-09-12T19:58:11+00:00",
+    "updatedAt":  "2026-09-12T21:56:38+00:00",
     "jobs":  [
                  {
-                     "id":  "linkedin:4463996257",
+                     "id":  "linkedin:4463994279",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463996257/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463994279/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -22,11 +22,11 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4464205113",
+                     "id":  "linkedin:4463949883",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464205113/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463949883/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -42,11 +42,11 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4464202165",
+                     "id":  "linkedin:4463995231",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464202165/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463995231/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -164,12 +164,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4463026793",
+                     "id":  "linkedin:4463996257",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463026793/",
-                     "postedDate":  "3 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463996257/",
+                     "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -204,11 +204,11 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4463995231",
+                     "id":  "linkedin:4464203122",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463995231/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464203122/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -224,11 +224,11 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4463994279",
+                     "id":  "linkedin:4463995230",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463994279/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463995230/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -308,11 +308,11 @@
                      "modelingScore":  60
                  },
                  {
-                     "id":  "linkedin:4463949883",
+                     "id":  "linkedin:4464202165",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463949883/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464202165/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -328,11 +328,31 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4464203122",
+                     "id":  "linkedin:4463026793",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464203122/",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463026793/",
+                     "postedDate":  "3 days ago",
+                     "fit":  89,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "data engineer",
+                                      "databricks"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  59,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4464205113",
+                     "company":  " IBM ",
+                     "role":  "Data Engineer-Data Platforms-Databricks",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464205113/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -373,26 +393,6 @@
                      "role":  "Data Engineer-Data Platforms-Databricks",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4464206090/",
-                     "postedDate":  "1 day ago",
-                     "fit":  89,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "data engineer",
-                                      "databricks"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  59,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4463995230",
-                     "company":  " IBM ",
-                     "role":  "Data Engineer-Data Platforms-Databricks",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-databricks-at-ibm-4463995230/",
                      "postedDate":  "1 day ago",
                      "fit":  89,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
@@ -540,7 +540,7 @@
                      "role":  "Senior Data Engineering Lead",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/senior-data-engineering-lead-at-optum-india-4466444425/",
-                     "postedDate":  "16 hours ago",
+                     "postedDate":  "18 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -583,7 +583,7 @@
                      "role":  "Senior Data Engineer - Databricks, Snowflake, SQL, ETL, Spark, Data Warehouse",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/senior-data-engineer-databricks-snowflake-sql-etl-spark-data-warehouse-at-optum-india-4463783669/",
-                     "postedDate":  "6 days ago",
+                     "postedDate":  "1 week ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Databricks; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -607,7 +607,7 @@
                      "role":  "Senior Azure Databricks Data Engineer (Immediate Joiner)",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/senior-azure-databricks-data-engineer-immediate-joiner-at-amrapali-solutions-4464295505/",
-                     "postedDate":  "3 hours ago",
+                     "postedDate":  "5 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -629,7 +629,7 @@
                      "role":  "Associate Specialist , Data Engineering",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/associate-specialist-data-engineering-at-msd-4465329666/",
-                     "postedDate":  "2 days ago",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -670,7 +670,7 @@
                      "role":  "Associate Specialist, Data Engineering",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/associate-specialist-data-engineering-at-msd-4465334180/",
-                     "postedDate":  "2 days ago",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -691,7 +691,7 @@
                      "role":  "Associalte Specialist , Data Engineering",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/associalte-specialist-data-engineering-at-msd-4465334178/",
-                     "postedDate":  "2 days ago",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -774,7 +774,7 @@
                      "role":  "Specialist , Data Engineering",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/specialist-data-engineering-at-msd-4465342128/",
-                     "postedDate":  "2 days ago",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -815,7 +815,7 @@
                      "role":  "Spcialist , Data Engineering",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/spcialist-data-engineering-at-msd-4465348075/",
-                     "postedDate":  "2 days ago",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1082,11 +1082,11 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4248783548",
+                     "id":  "linkedin:4248782618",
                      "company":  " UPS ",
                      "role":  "Senior Data Developer - Azure Databricks+cosmos DB + SQL + ETL+SSIS",
                      "location":  "Chennai, Tamil Nadu, India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248783548/",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248782618/",
                      "postedDate":  "6 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Remote India; verify JD, company, experience, and salary before applying",
@@ -1106,12 +1106,12 @@
                      "modelingScore":  65
                  },
                  {
-                     "id":  "linkedin:4248787113",
+                     "id":  "linkedin:4248787109",
                      "company":  " UPS ",
                      "role":  "Senior Data Developer - Azure Databricks+cosmos DB + SQL + ETL+SSIS",
                      "location":  "Chennai, Tamil Nadu, India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248787113/",
-                     "postedDate":  "3 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248787109/",
+                     "postedDate":  "6 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Remote India; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1130,11 +1130,11 @@
                      "modelingScore":  65
                  },
                  {
-                     "id":  "linkedin:4248782618",
+                     "id":  "linkedin:4248783548",
                      "company":  " UPS ",
                      "role":  "Senior Data Developer - Azure Databricks+cosmos DB + SQL + ETL+SSIS",
                      "location":  "Chennai, Tamil Nadu, India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248782618/",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248783548/",
                      "postedDate":  "6 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Remote India; verify JD, company, experience, and salary before applying",
@@ -1271,12 +1271,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4248787109",
+                     "id":  "linkedin:4248787113",
                      "company":  " UPS ",
                      "role":  "Senior Data Developer - Azure Databricks+cosmos DB + SQL + ETL+SSIS",
                      "location":  "Chennai, Tamil Nadu, India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248787109/",
-                     "postedDate":  "6 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-data-developer-azure-databricks%2Bcosmos-db-%2B-sql-%2B-etl%2Bssis-at-ups-4248787113/",
+                     "postedDate":  "3 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Remote India; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1407,7 +1407,7 @@
                      "role":  "Specialist, Analytics Engineer",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/specialist-analytics-engineer-at-msd-4465856957/",
-                     "postedDate":  "1 day ago",
+                     "postedDate":  "2 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1515,7 +1515,7 @@
                      "role":  "Consultant - Data Engineer + AI",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/consultant-data-engineer-%2B-ai-at-microsoft-4447803041/",
-                     "postedDate":  "2 hours ago",
+                     "postedDate":  "4 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1557,7 +1557,7 @@
                      "role":  "Big Data Engineer",
                      "location":  "Kochi, Kerala, India",
                      "link":  "https://www.linkedin.com/jobs/view/big-data-engineer-at-nov-4446928536/",
-                     "postedDate":  "4 hours ago",
+                     "postedDate":  "6 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Kochi Data Engineering; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1692,7 +1692,7 @@
                      "role":  "Azure Data Engineer",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/azure-data-engineer-at-dexian-4465172063/",
-                     "postedDate":  "23 hours ago",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1925,7 +1925,7 @@
                      "role":  "Data Engineer-Senior II",
                      "location":  "Bengaluru, Karnataka, India",
                      "link":  "https://www.linkedin.com/jobs/view/data-engineer-senior-ii-at-fedex-4454482923/",
-                     "postedDate":  "8 hours ago",
+                     "postedDate":  "10 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Bengaluru Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -1984,12 +1984,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4463483792",
+                     "id":  "linkedin:4463935648",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Azure",
                      "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4463483792/",
-                     "postedDate":  "2 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4463935648/",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Bengaluru Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -2067,12 +2067,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4462517824",
+                     "id":  "linkedin:4462213635",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Azure",
                      "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4462517824/",
-                     "postedDate":  "4 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4462213635/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Bengaluru Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -2110,12 +2110,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4462213635",
+                     "id":  "linkedin:4462517824",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Azure",
                      "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4462213635/",
-                     "postedDate":  "5 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4462517824/",
+                     "postedDate":  "4 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Bengaluru Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -2131,12 +2131,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4463935648",
+                     "id":  "linkedin:4463438700",
                      "company":  " IBM ",
                      "role":  "Data Engineer-Data Platforms-Azure",
                      "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4463935648/",
-                     "postedDate":  "1 day ago",
+                     "link":  "https://www.linkedin.com/jobs/view/data-engineer-data-platforms-azure-at-ibm-4463438700/",
+                     "postedDate":  "2 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Bengaluru Azure; verify JD, company, experience, and salary before applying",
                      "keywords":  [
